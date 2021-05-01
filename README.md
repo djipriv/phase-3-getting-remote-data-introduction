@@ -1,10 +1,10 @@
-# Introduction to Getting Data from Remote Sources
+# Introduction to Getting Remote Data
 
 Applications often need to talk to one another. When you go to apply for a job,
 sometimes you will see an option that allows you to import your profile from
 LinkedIn. What’s happening here is the site you’re using is talking to LinkedIn,
 and requesting some information. If you've ever seen a Google map inside of
-another website or app such as Yelp--you're accessing remote data from a 3rd
+another website or app such as Yelp — you're accessing remote data from a 3rd
 party source.
 
 This data can be very useful. You can pick and choose what parts of an
